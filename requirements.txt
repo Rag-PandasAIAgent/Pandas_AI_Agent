@@ -1,0 +1,7 @@
+python-dotenv
+groq
+langchain-groq
+langchain-experimental
+pandas
+charset-normalizer
+gradio
